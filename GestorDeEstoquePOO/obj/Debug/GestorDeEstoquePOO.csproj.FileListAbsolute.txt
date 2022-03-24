@@ -1,0 +1,16 @@
+C:\Users\jpaul\OneDrive\Área de Trabalho\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\bin\Debug\GestorDeEstoquePOO.exe.config
+C:\Users\jpaul\OneDrive\Área de Trabalho\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\bin\Debug\GestorDeEstoquePOO.exe
+C:\Users\jpaul\OneDrive\Área de Trabalho\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\bin\Debug\GestorDeEstoquePOO.pdb
+C:\Users\jpaul\OneDrive\Área de Trabalho\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\obj\Debug\GestorDeEstoquePOO.csproj.AssemblyReference.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\obj\Debug\GestorDeEstoquePOO.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\obj\Debug\GestorDeEstoquePOO.csproj.CoreCompileInputs.cache
+C:\Users\jpaul\OneDrive\Área de Trabalho\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\obj\Debug\GestorDeEstoquePOO.exe
+C:\Users\jpaul\OneDrive\Área de Trabalho\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\obj\Debug\GestorDeEstoquePOO.pdb
+D:\Curso-C-Sharp\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\bin\Debug\GestorDeEstoquePOO.exe.config
+D:\Curso-C-Sharp\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\bin\Debug\GestorDeEstoquePOO.exe
+D:\Curso-C-Sharp\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\bin\Debug\GestorDeEstoquePOO.pdb
+D:\Curso-C-Sharp\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\obj\Debug\GestorDeEstoquePOO.csproj.AssemblyReference.cache
+D:\Curso-C-Sharp\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\obj\Debug\GestorDeEstoquePOO.csproj.SuggestedBindingRedirects.cache
+D:\Curso-C-Sharp\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\obj\Debug\GestorDeEstoquePOO.csproj.CoreCompileInputs.cache
+D:\Curso-C-Sharp\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\obj\Debug\GestorDeEstoquePOO.exe
+D:\Curso-C-Sharp\GestorDeEstoque\GestorDeEstoquePOO\GestorDeEstoquePOO\obj\Debug\GestorDeEstoquePOO.pdb
